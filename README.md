@@ -12,16 +12,6 @@ sbt run
 
 And then go to http://localhost:9000 to see the running web application.
 
-## Team Members
-
-
-| Name                      | Student ID    | Contributions                      |
-| :-----------------------: |:-------------:| :---------------------------------:|
-| Adrien Poupa              | 40059458      | TwitterController, Models, JavaDoc |
-| Jialu Wang                | 40019673      | Framework archeticture, twitter api|
-| Wei Li                    | 40027433      | Junit tests,JavaDoc,UI             |
-| Vamsikrishna Tamil Selvan | 40010750      | Test cases,JavaDoc,Documentation   |
-| Manoj Kumar Muppavarapu   | 40042560      | JavaDoc,Test cases,Documentation   |
 
 ## Controllers
 
@@ -84,69 +74,4 @@ There are several models used in this project. They are simple POJO (Plain Old J
 
   login into twitter application user interface using oAuth.
   
-## Tests
-
-- TestIndex: For HomeController
-
-- TestgetKeyword: For Keyword
-
-- testGetQuery: For search result 
-
-- testSetQuery: For search result
-
-- testSetStatuses:For seartestSetFullText:For Statusch result
-
-- testGetStatuses:For search result
-
-- testGetUser: for Status 
-
-- testSetUser: For Status
-
-- testGetFullText: For Status
-
-- testSetFullText:For Status
-
-- testAuth:For TwitterController
-
-- testSearchForm: For TwitterController
-
-- testGetSearchJson: For TwitterController
-
-- testSearchPost: For TwitterController
-
-- testProfile: For TwitterController
-
-- testGetProfileJson: For TwitterController
-
-- testGetBaseUrl: For TwitterController
-
-- testGetLocation: For User 
-
-- testSetLocation: For User
-
-- testGetDescription: For User
-
-- testSetDescription: For User
-
-- testGetFollowers: For User
-
-- testSetFollowers: For User
-
-- testGetFriends: For User
-
-- testSetFriends: For User
-
-- testGetId:For User
-
-- testSetId:For User
-
-- testGetName:For User
-
-- testSetName:For User
-
-- testGetScreenName: For User
-
-- testGetScreenName: For User
-
-
 
